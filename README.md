@@ -2,7 +2,7 @@
 
 Crafted a professional portfolio website to showcase personal projects, skills, and achievements.
 
-# Tech Stack:
+#### Tech Stack:
 Developed using HTML, CSS, and potentially JavaScript for interactivity.
 Ensured a responsive design for optimal viewing on various devices.
 
